@@ -31,5 +31,6 @@ const user = {
 const array = [0, 1, 2, "apple", false]; //type object
 
 user.name = "Ivan";
+user.name = "Sergey";
 
 console.log(user["name"]);
