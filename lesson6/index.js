@@ -172,9 +172,9 @@ function getSum(arr) {
 //   return tempArr;
 // };
 
-const equalValue = (arr1, arr2) => arr1.filter((el) => arr2.includes(el));
+// const equalValue = (arr1, arr2) => arr1.filter((el) => arr2.includes(el));
 
-const arr1 = [1, 3, 5, 7];
-const arr2 = [1, 100, 5, 700];
+// const arr1 = [1, 3, 5, 7];
+// const arr2 = [1, 100, 5, 700];
 
-console.log(equalValue(arr1, arr2));
+// console.log(equalValue(arr1, arr2));
